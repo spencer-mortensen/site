@@ -1,7 +1,7 @@
 {
     "name": "spencer-mortensen/site",
     "type": "library",
-    "description": "Add error handling and themes to your site",
+    "description": "Add themes to your site",
     "keywords": [
         "theme",
         "html"
