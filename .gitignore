@@ -1,0 +1,5 @@
+/vendor/
+/composer.lock
+/autoload.php
+/index.php
+*.swp

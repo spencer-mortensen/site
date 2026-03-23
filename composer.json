@@ -1,0 +1,26 @@
+{
+    "name": "spencer-mortensen/site",
+    "type": "library",
+    "description": "Add error handling and themes to your site",
+    "keywords": [
+        "theme",
+        "html"
+    ],
+    "homepage": "https://github.com/spencer-mortensen/site",
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Spencer Mortensen",
+            "homepage": "https://spencermortensen.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SpencerMortensen\\Site\\": "src"
+        }
+    }
+}
